@@ -1,2 +1,2 @@
 # Data-Projects
-This is my place where I upload all my works
+This project usin VGG 16 model is able to classify images as soil,grasss, broadleaf(weed) or soybean(crop). Thus, helps in reducing workload on farmers.
