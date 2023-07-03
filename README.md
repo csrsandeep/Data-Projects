@@ -3,4 +3,3 @@ Credit card fraud detection- this project detects anamoly in a person's credit c
 Fashion- This simple CNN model classifies 10 type os fashion items using MNIST Dataset.
 
 Weed Classification-This project usin VGG 16 model is able to classify images as soil,grasss, broadleaf(weed) or soybean(crop). Thus, helps in reducing workload on farmers.
-Final fashion - This model will classify 10 types of fashion items like shoes, shirts, trousers etc, using CNN 
