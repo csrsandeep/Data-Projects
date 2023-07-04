@@ -7,4 +7,4 @@
 
 **Crop Recommender** - This will take N, P, K values, Temperature, Humidity, pH and Rainfall in the crop environment and recommend best crop that can be grown.
 
-**ML Model** - Classified MNIST Handwritten digits images using Multi Layer Perceptron 
+**MLP Model** - Classified MNIST Handwritten digits images using Multi Layer Perceptron 
